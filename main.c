@@ -104,5 +104,5 @@ int main() {
     displayBoard(board);
   }
 
-  printf("플레이어 %d이/가 승리했노.",isEndGame(board));
+  printf("플레이어 %d이/가 승리했네요.",isEndGame(board));
 }
